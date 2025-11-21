@@ -1,2 +1,2 @@
 arg version
-from almalinux:${version=9}
+from almalinux:${version:-9}
