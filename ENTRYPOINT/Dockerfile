@@ -1,3 +1,3 @@
 from nginx
-cmd ["hi"]
-entrypoint [echo]
+cmd ["google.com"]
+entrypoint [ping]
